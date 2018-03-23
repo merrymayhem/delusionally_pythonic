@@ -1,2 +1,2 @@
 # delusionally_pythonic
-Ravings of a mad data scientist
+Ravings of a mad, bad data scientist
